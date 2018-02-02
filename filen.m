@@ -1,4 +1,5 @@
-%Nytt fï¿½rsï¿½k, ny fil
+%Nytt försök, ny fil
 
+M= 0;
 
-%Hï¿½r sker lite till
+%Här sker lite till
