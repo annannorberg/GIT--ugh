@@ -5,6 +5,9 @@ matte= 1;
 nomore= matte-1;
 
 disp(nomore);
+disp(matte);
+%Kan jag få ned detta?
+
 
 %Jamen vadåråå?
 Det spelar la ingen roll
