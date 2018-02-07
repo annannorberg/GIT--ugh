@@ -1,6 +1,11 @@
 %Nu äre onsdag. Vad betyder det?
 %Onsdagsöl såklart
 
+matte= 1;
+nomore= matte-1;
+
+disp(nomore);
+
 %Jamen vadåråå?
 Det spelar la ingen roll
 
