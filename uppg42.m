@@ -12,3 +12,10 @@ disp(matte);
 %Jamen vadÃ¥rÃ¥Ã¥?
 
 %En fil som är meningslös
+
+isaiah= nomore+ matte;
+
+x= [1:10];
+y=[1:10];
+
+plot(x,y);
